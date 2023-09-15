@@ -1,0 +1,8 @@
+This is my first text file of SMIT course.
+when give you error
+git config --global user.name="Name"
+git config --global user.email="Email"
+
+git add *
+git commit -m "I've created a text file" 
+git push
